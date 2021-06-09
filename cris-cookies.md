@@ -2,7 +2,7 @@
 
 *vegetarian, cookies*
 
-**equals __ cookies** // no idea, please comment how many you get out of it
+**equals __ cookies** // no idea, please tell me how much you get out of it
 
 ---
 
