@@ -1,22 +1,22 @@
 # Champignon salad
 
-* vegetarian, salad *
+*vegetarian, salad*
 
 **4 Portions**
 
 ---
 
 Base:
-- 400g champignons
-- 4 boild eggs
-- 200g seedless grapes
-- 50g haselnuts
+- *400g* champignons
+- *4* boild eggs
+- *200g* seedless grapes
+- *50g* haselnuts
 
 Dressing:
-- 1 big orange
-- 150g greek yogurt
-- 100g mayonaise
-- 1tbsp currypowder
+- *1* big orange
+- *150g* greek yogurt
+- *100g* mayonaise
+- *1 tbsp* currypowder
 - salt
 - sugar
 
