@@ -6,13 +6,13 @@
 
 ---
 
-- 100g white chocolate
-- 100g white sugar
-- 100g soft butter
-- 1 egg
-- 200g white allpurpose flour
-- 5g vanilla sugar
-- 1tsp baking soda
+- *100g* white chocolate
+- *100g* white sugar
+- *100g* soft butter
+- *1* egg
+- *200g* white allpurpose flour
+- *5g* vanilla sugar
+- +*1 tsp* baking soda
 
 ---
 
