@@ -2,8 +2,6 @@
 
 *vegetarian, cookies*
 
-**equals __ cookies** // no idea, please tell me how much you get out of it
-
 ---
 
 - *100g* white chocolate
