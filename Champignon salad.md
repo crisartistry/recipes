@@ -6,17 +6,19 @@
 
 ---
 
-Base:
-- *400g* champignons
-- *4* boild eggs
-- *200g* seedless grapes
-- *50g* haselnuts
+## Base:
 
-Dressing:
+- *400g* champignons
+- *4* boiled eggs
+- *200g* seedless grapes
+- *50g* hazelnuts
+
+## Dressing:
+
 - *1* big orange
 - *150g* greek yogurt
-- *100g* mayonaise
-- *1 tbsp* currypowder
+- *100g* mayonnaise
+- *1 tbsp* curry powder
 - salt
 - sugar
 
@@ -24,9 +26,9 @@ Dressing:
 
 1. Clean champignons and cut them into thin sliced
 2. Wash grapes and slice them in half
-3. Roughly chop the haselnuts
+3. Roughly chop the hazelnuts
 4. Peel eggs and cut into eighths 
-5. Mix everthing in a bowl
+5. Mix everything in a bowl
 6. Cut the orange in half and squeeze
-7. Mix orangejuice, yogurt, mayonaise, currypowder, salt and sugar
-8. Serve dressing separatly, otherwise the champignons gets soggy within a short amount of time
+7. Mix orange juice, yogurt, mayonnaise, curry powder, salt and sugar
+8. Serve dressing separately, otherwise the champignons gets soggy within a short amount of time
