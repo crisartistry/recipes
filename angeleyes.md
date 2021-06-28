@@ -1,6 +1,6 @@
 # Angeleyes
 
-*vegetarian, cookies**
+*vegetarian, cookies*
 
 **40 cookies**
 

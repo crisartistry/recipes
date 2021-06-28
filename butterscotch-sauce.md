@@ -1,6 +1,6 @@
 # Butterscotch-Sauce
 
-*vegetarian, dessert, sauce**
+*vegetarian, dessert, sauce*
 
 ---
 
