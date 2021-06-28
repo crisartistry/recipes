@@ -17,4 +17,4 @@
 2. Melt in pot on low to medium heat for 8-10 minutes
 3. Mix in cream until evenly distributed
 
-Storage: Up to serveral weeks in the fridge when sealed container is used
+Storage: Up to several weeks in the fridge when sealed container is used

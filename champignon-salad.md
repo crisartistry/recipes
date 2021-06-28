@@ -16,9 +16,9 @@
 ## Dressing:
 
 - *1* big orange
-- *150g* greek yogurt
+- *150g* Greek yogurt
 - *100g* mayonnaise
-- *1 tbsp* curry powder
+- *1tbsp* curry powder
 - salt
 - sugar
 

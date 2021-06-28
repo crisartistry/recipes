@@ -11,7 +11,7 @@
 - *4* eggs
 - *2 cups* sugar
 - *7g* vanilla sugar
-- *4 cups* allpurpose flour
+- *4 cups* all purpose flour
 - *1 cup* Fanta
 - *2 cup* vegetable oil
 - *16g* baking soda

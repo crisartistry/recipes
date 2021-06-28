@@ -1,6 +1,6 @@
-# Gluten free brownies
+# Glutenfree brownies
 
-*vegetarian, cake, gluten free*
+*vegetarian, cake, glutenfree*
 
 **1 baking tray (30x40x4cm)**
 
@@ -18,7 +18,7 @@
 
 1. Mix almonds, baking soda, vanilla sugar, eggs and salt in bowl
 2. Melt chocolate and butter in a heatproof bowl. (Bowl on top of a pot with hot, steaming water: Bowl shouldn't touch the water)
-3. Mix chocolate-butter-mixture with the rest until evenly distributed
-4. Fill mixture into baking trey, which has been primed with canola oil or some butter
+3. Mix chocolate-butter-mixure with the rest until evenly distributed
+4. Fill mixture into baking trey, which has been primed with granola oil or some butter
 5. Bake 40 minutes at 160°C 
 

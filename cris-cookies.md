@@ -8,7 +8,7 @@
 - *100g* white sugar
 - *100g* soft butter
 - *1* egg
-- *200g* white allpurpose flour
+- *200g* white all purpose flour
 - *5g* vanilla sugar
 - +*1 tsp* baking soda
 
