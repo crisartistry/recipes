@@ -1,4 +1,4 @@
-# Angeleyes
+# Angel eyes
 
 *vegetarian, cookies*
 

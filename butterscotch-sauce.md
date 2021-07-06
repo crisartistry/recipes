@@ -5,7 +5,7 @@
 ---
 
 - *240g* sugar
-- *360g* light cornsirup or golden sirup
+- *360g* light corn syrup or golden syrup
 - *70g* soft butter
 - *30g* water
 - *1pinch* salt

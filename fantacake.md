@@ -18,7 +18,7 @@
 
 ## Topping:
 
-- organge juice
+- orange juice
 - powdered sugar
 
 ---

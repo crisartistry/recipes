@@ -10,7 +10,7 @@
 - *1* egg
 - *200g* white all purpose flour
 - *5g* vanilla sugar
-- +*1 tsp* baking soda
+- +*1tsp* baking soda
 
 ---
 
