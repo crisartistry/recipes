@@ -11,7 +11,7 @@
 - *0.5* clove of garlic
 - *2* organic limes
 - *3tbsp* olive oil
-- Salt
+- salt
 
 ---
 
