@@ -1,29 +1,23 @@
-# Deviled Eggs
+# Sweet Potato Purree
 
-*vegetarian*
+*vegan*
 
-**6 servings**
+**4 servings**
 
 ---
 
-- *10* eggs
-- *6tbsp* mayonaise
-- *2tsp* neutral oil
-- *3/4tsp* white vine vinegar
-- *2tsp* mustard (medium hot)
-- *0,5tsp* Worcestershire sauce
-- smoked paprika powder
-- black pepper
+- *1kg* sweet potato
+- *4tbsp* olive oil
 - salt
+- black pepper
 
 ---
 
-1. Boil eggs depending on size for 8 - 10 minutes.
-2. Meanwhile mix all the other ingredients.
-3. Cool the eggs with cold water and peel them.
-4. Cut the eggs in half and remove the egg yolk carefully.
-5. Mix the egg yolks with the sauce until evenly textured.
-6. Fill the mixture back into the egg whites.
-7. Serve with a little paprika powder and chives on top. 
-
-Tip: Rinse the peeled eggs with water to ensure that no egg shell is left behind. Do hat only before cutting the egg open!
+1. Preheat oven to 200°C.
+2. Season the sweet potato with 1 tbsp oil and 1/4 tsp salt. 
+3. Cut the sweet potato in half and lay it flat onto a parchment paper covered baking sheet.
+4. Bake for 30 - 35 minutes until soft.
+5. Let the sweet potato until cool to touch. Then peel off the skin.
+6. Season with 1/4 tsp of salt and some pepper.
+7. Mash or blend until smooth.
+8. Serve with [lime-salsa](https://github.com/crisartistry/recipes/blob/main/lime-salsa.md) which can be prepared while Step 4.
