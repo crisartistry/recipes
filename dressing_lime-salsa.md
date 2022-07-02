@@ -1,4 +1,4 @@
-# Sweet Potato Purree
+# Lime Salsa
 
 *vegan*
 
