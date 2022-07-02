@@ -10,6 +10,7 @@
 - *1* garlic clove
 - *4tbsp* fresh lemon juice
 - *6tbsp* olive oil
+- *1tbsp* rice vinegar
 - salt
 - Pepper
 
