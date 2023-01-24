@@ -20,4 +20,4 @@
 5. Let the sweet potato until cool to touch. Then peel off the skin.
 6. Season with 1/4 tsp of salt and some pepper.
 7. Mash or blend until smooth.
-8. Serve with [lime-salsa](https://github.com/crisartistry/recipes/blob/main/lime-salsa.md) which can be prepared while Step 4.
+8. Serve with [lime-salsa](https://github.com/crisartistry/recipes/blob/main/dressing_lime-salsa.md) which can be prepared while Step 4.
